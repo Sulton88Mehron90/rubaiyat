@@ -30,14 +30,15 @@ body {
 h2 {
     font-family: 'Dancing Script', cursive;
     font-size: 2rem; 
-    color: #E50914;
+    /* color: #E50914; */
+    /* color: #4CAF50; */
+    color: #688E26;
     margin-bottom: 2rem;
     letter-spacing: 1px;
     font-weight: bold;
 }
 
 .poem p {
-    /* font-family: 'Dancing Script', cursive; */
     font-size: 1.4rem; 
     line-height: 1.5;
     color: #ffffff; 
