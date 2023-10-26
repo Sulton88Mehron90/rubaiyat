@@ -25,6 +25,8 @@ body {
     max-width: 800px;
     width: 90%; 
     box-shadow: 0 0 10px #E50914, 0 0 30px #E50914, 0 0 60px #E50914;
+    background-color: var(--background-color);
+    color: var(--text-color);
 }
 
 h2 {
@@ -41,7 +43,7 @@ h2 {
 .poem p {
     font-size: 1.4rem; 
     line-height: 1.5;
-    color: #ffffff; 
+    color: var(--text-color);
     text-align: left;
     margin: 0.5rem 0;
     font-weight: 300;
@@ -60,9 +62,33 @@ h2 {
     transition: transform 0.2s, background-color 0.3s;
     font-weight: bold;
     letter-spacing: 1.5px;
+    /* background-color: var(--primary-color); */
 }
 
 .refresh-button:hover {
     background-color: #b40612;
     transform: scale(1.05); 
 }
+
+.theme-toggle-button {
+    background: none;
+    border: none;
+    font-size: 2rem;
+    cursor: pointer;
+    padding: 0.5rem;
+    margin: 1rem;
+    transition: transform 0.2s;
+}
+
+.theme-toggle-button:hover {
+    transform: scale(1.1);
+}
+
+.sun-icon {
+    filter: hue-rotate(45deg) brightness(0) invert(1);
+}
+
+.moon-icon {
+    filter: hue-rotate(-45deg) brightness(0);
+}
+
