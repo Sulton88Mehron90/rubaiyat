@@ -1,0 +1,67 @@
+/* <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet"> */
+
+
+body {
+    font-family: 'Dancing Script', cursive;
+    background: #141414;
+    font-family: 'Arial', sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    color: #ffffff;
+}
+
+.container {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    background-color: #222222; 
+    max-width: 800px;
+    width: 90%; 
+    box-shadow: 0 0 10px #E50914, 0 0 30px #E50914, 0 0 60px #E50914;
+}
+
+h2 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 2rem; 
+    color: #E50914;
+    margin-bottom: 2rem;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+
+.poem p {
+    /* font-family: 'Dancing Script', cursive; */
+    font-size: 1.4rem; 
+    line-height: 1.5;
+    color: #ffffff; 
+    text-align: left;
+    margin: 0.5rem 0;
+    font-weight: 300;
+}
+
+
+.refresh-button {
+    margin-top: 2rem;
+    padding: 0.8rem 2rem;
+    font-size: 1.2rem;
+    color: #ffffff;
+    background-color: #E50914; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.2s, background-color 0.3s;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+}
+
+.refresh-button:hover {
+    background-color: #b40612;
+    transform: scale(1.05); 
+}
