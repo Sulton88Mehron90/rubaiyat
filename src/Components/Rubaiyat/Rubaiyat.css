@@ -11,6 +11,7 @@ body {
     align-items: center;
     margin: 0;
     color: #ffffff;
+    background-color: var(--background-color);
 }
 
 .container {
@@ -24,9 +25,11 @@ body {
     background-color: #222222; 
     max-width: 800px;
     width: 90%; 
-    box-shadow: 0 0 10px #E50914, 0 0 30px #E50914, 0 0 60px #E50914;
+    /* box-shadow: 0 0 10px #E50914, 0 0 30px #E50914, 0 0 60px #E50914; */
+    box-shadow: 0 0 10px var(--shadow-color), 0 0 30px var(--shadow-color), 0 0 60px var(--shadow-color);
     background-color: var(--background-color);
     color: var(--text-color);
+    position: relative; 
 }
 
 h2 {
@@ -78,6 +81,9 @@ h2 {
     padding: 0.5rem;
     margin: 1rem;
     transition: transform 0.2s;
+    position: absolute;
+    top: 100px;
+    right: 380px;
 }
 
 .theme-toggle-button:hover {
