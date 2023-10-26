@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+<div>
+    <h1 style="color:red; display: inline;">
+      Rubaiyat Wisdom
+         <img src="https://github.com/Sulton88Mehron90/rubaiyat/blob/main/src/Images/name.jpg" alt="Rubaiyat's Logo" width="105" style="margin-left: 5px; border-radius: 50%; vertical-align: middle;">
+    </h1>
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Dive into the world of poetic wisdom with **Rubaiyat Wisdom**! Inspired by the profound verses of Omar Khayyam, this application offers a refreshing glimpse into the timeless wisdom encapsulated in his quatrains.
 
-## Available Scripts
+### <span style="color:#2E8B57;">Description</span>
 
-In the project directory, you can run:
+**Rubaiyat Wisdom** is a captivating experience for poetry lovers and seekers of wisdom. It presents users with random quatrains, bringing the age-old knowledge of Omar Khayyam to the digital age.
 
-### `npm start`
+<img width="504" alt="image" src="https://github.com/Sulton88Mehron90/rubaiyat/assets/image1">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### <span style="color:#2E8B57;">Live Demo</span>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Immerse yourself in the beauty of poetry. [Explore Rubaiyat Wisdom](https://rubaiyat.vercel.app/).
 
-### `npm test`
+<img width="504" alt="image" src="https://github.com/Sulton88Mehron90/rubaiyat/assets/image2">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### <span style="color:#2E8B57;">Features</span>
 
-### `npm run build`
+- **Random Verse Generation**: Every visit offers a new perspective, thanks to the random quatrain generation.
+- **Elegant Design**: The minimalistic and elegant design ensures readers can focus entirely on the verse.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width="504" alt="image" src="https://github.com/Sulton88Mehron90/rubaiyat/assets/image3">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### <span style="color:#2E8B57;">Technologies:</span>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Rubaiyat Wisdom** combines a mix of modern web technologies:
 
-### `npm run eject`
+<div>  
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+  <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+</div>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<img width="504" alt="image" src="https://github.com/Sulton88Mehron90/rubaiyat/assets/image4">
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### <span style="color:#2E8B57;">Setup & Installation</span>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Getting **Rubaiyat Wisdom** up and running:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Clone the repository: `git clone git@github.com:Sulton88Mehron90/rubaiyat.git`
+2. Navigate to the project directory: `cd rubaiyat`
+3. Install dependencies: `npm install`
+4. Start the app: `npm start`
 
-## Learn More
+<img width="504" alt="image" src="https://github.com/Sulton88Mehron90/rubaiyat/assets/image5">
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### <span style="color:#2E8B57;">Reflections</span>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+"Rubaiyat Wisdom" was an enlightening journey into the world of poetry and web development. 
 
-### Code Splitting
+<h4>
+  <img src="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors/blob/main/src/parvin_round_transparent.png" 
+       alt="Ibn Sino" 
+       style="width: 30px; margin-right: 10px; border: 2px solid rgb(11, 166, 52); border-radius: 50%; padding: 8px; transition: transform 0.3s ease, box-shadow 0.3s ease-in-out; transform-origin: right; vertical-align: middle;" />
+  Major Triumphs
+</h4>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- The app successfully brings forth the profound wisdom of Omar Khayyam in a digital format.
+- The design and user experience were paramount, ensuring readers have an immersive experience.
+- Integrated various tools and technologies to bring this vision to life.
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h4>
+  <img src="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors/blob/main/src/parvin_round_transparent.png" 
+       alt="Ibn Sino" 
+       style="width: 30px; margin-right: 10px; border: 2px solid rgb(11, 166, 52); border-radius: 50%; padding: 8px; transition: transform 0.3s ease, box-shadow 0.3s ease-in-out; transform-origin: right; vertical-align: middle;" />
+  Challenges Faced
+</h4>
