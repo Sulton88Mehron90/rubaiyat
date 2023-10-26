@@ -1,7 +1,7 @@
 <div>
     <h1 style="color:red; display: inline;">
       Rubaiyat Wisdom
-         <img src="https://github.com/Sulton88Mehron90/rubaiyat/blob/main/src/Images/name.jpg" alt="Rubaiyat's Logo" width="105" style="margin-left: 5px; border-radius: 50%; vertical-align: middle;">
+         <img src="src/data/Screenshot 2023-10-26 at 2.27.27 PM.png" alt="Rubaiyat's Logo" width="105" style="margin-left: 5px; border-radius: 50%; vertical-align: middle;">
     </h1>
 </div>
 
