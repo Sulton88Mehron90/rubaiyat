@@ -1,11 +1,11 @@
 <div>
     <h1 style="color:red; display: inline;">
       Rubaiyat of Omar Khayyam
-         <img src="src/data/Screenshot 2023-10-26 at 2.27.27 PM.png" alt="Rubaiyat's Logo" width="105" style="margin-left: 5px; border-radius: 50%; vertical-align: middle;">
+         <img src="src/data/Rounded_Screenshot.png" alt="Rubaiyat's Logo" width="105" style="margin-left: 5px; border-radius: 50%; vertical-align: middle;">
     </h1>
 </div>
 
-Dive into the world of poetic wisdom with the **Rubaiyat of Omar Khayyam**. Inspired by the profound verses of Omar Khayyam, this application provides a refreshing glimpse into the timeless wisdom encapsulated in his quatrains.
+Dive into the world of poetic wisdom with the **Rubaiyat of Omar Khayyam**. Inspired by the profound verses of Omar Khayyam, this application provides a refreshing glimpse into the timeless wisdom encapsulated in his rubaiyat.
 
 ### <span style="color:#2E8B57;">Description</span>
 
@@ -70,9 +70,27 @@ To get **Rubaiyat of Omar Khayyam** running on your machine:
 
 ### <span style="color:#2E8B57;">Reflections</span>
 
-The "Rubaiyat of Omar Khayyam" was an enlightening journey into poetry and web development. 
+The "Rubaiyat of Omar Khayyam" was an enlightening journey into poetry and web development. This project was conceived and developed during the Mod4 Hackathon, where it took 5 hours to build. The experience was fun, bringing back the joy of coding.
 
 <h4>
   <img src="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors/blob/main/src/parvin_round_transparent.png" 
        alt="Ibn Sino" 
        style="width: 30px; margin-right: 
+
+<h4>
+  <img src="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors/blob/main/src/parvin_round_transparent.png" 
+       alt="Ibn Sino" 
+       style="width: 30px; margin-right: 10px; border: 2px solid rgb(11, 166, 52); border-radius: 50%; padding: 8px; transition: transform 0.3s ease, box-shadow 0.3s ease-in-out; transform-origin: right; vertical-align: middle;" />
+  Major Triumphs
+</h4>
+
+- The app successfully brings forth the profound wisdom of Omar Khayyam in a digital format.
+- The design and user experience were paramount, ensuring readers have an immersive experience.
+- Integrated various tools and technologies to bring this vision to life.
+
+<!-- <h4>
+  <img src="https://github.com/Sulton88Mehron90/Rock-Paper-Scissors/blob/main/src/parvin_round_transparent.png" 
+       alt="Ibn Sino" 
+       style="width: 30px; margin-right: 10px; border: 2px solid rgb(11, 166, 52); border-radius: 50%; padding: 8px; transition: transform 0.3s ease, box-shadow 0.3s ease-in-out; transform-origin: right; vertical-align: middle;" />
+  Challenges Faced
+</h4> -->
