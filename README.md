@@ -9,7 +9,7 @@ Dive into the world of poetic wisdom with **Rubaiyat of Omar Khayyam**! Inspired
 
 ### <span style="color:#2E8B57;">Description</span>
 
-**Rubaiyat** is a captivating experience for poetry lovers and seekers of wisdom. It presents users with random quatrains, bringing the age-old knowledge of Omar Khayyam to the digital age.
+**Rubaiyat** is a captivating experience for poetry lovers and seekers of wisdom. It presents users with random rybaiyat, bringing the age-old knowledge of Omar Khayyam to the digital age.
 
 <img width="504" alt="image" src="https://github.com/Sulton88Mehron90/showcase-project/assets/119267809/07d2bf4c-0b57-42b3-8254-56e133f377a3">
 
@@ -39,6 +39,23 @@ Immerse yourself in the beauty of poetry. [Explore Rubaiyat of Omar Khayyam ](ht
 </div>
 
 <img width="504" alt="image" src="https://github.com/Sulton88Mehron90/showcase-project/assets/119267809/07d2bf4c-0b57-42b3-8254-56e133f377a3">
+
+### <span style="color:#2E8B57;">Contributor</span>
+
+Meet the developer behind **Avicenna Method**:
+<table>
+    <tr>
+        <td> Parvin A. Sattorova 
+            <a href="https://www.linkedin.com/in/parvin-sattorova-edwards-357526b3/">LinkedIn</a> || 
+            <a href="https://github.com/Sulton88Mehron90">GitHub</a> 
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://avatars.githubusercontent.com/u/119267809?v=4" alt="GitHub Avatar" width="150"></td>
+    </tr>
+</table>
+
+<img width="504" alt="image" src="https://github.com/Sulton88Mehron90/showcase-project/assets/119267809/d07cdccf-01dc-4aad-ab97-143def51d789">
 
 ### <span style="color:#2E8B57;">Setup & Installation</span>
 

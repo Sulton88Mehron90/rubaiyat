@@ -12,14 +12,17 @@ const Rubaiyat = () => {
         return rubaiyat[randomIndex];
     }
 
-    const handleButtonClick = () => {
+    const handleButtonClick = (event) => {
+        event.preventDefault();
         setSelectedRubaiyat(getRandomRubaiyat());
     };
+    
+
     useEffect(() => {
         document.documentElement.style.setProperty('--background-color', theme.background);
         document.documentElement.style.setProperty('--text-color', theme.text);
         document.documentElement.style.setProperty('--primary-color', theme.primary);
-        document.documentElement.style.setProperty('--shadow-color', theme.shadow);  // Set the shadow color
+        document.documentElement.style.setProperty('--shadow-color', theme.shadow);  
     }, [theme]);
     
     const themeIcon = theme === lightTheme ? '🌙' : '☀️';
